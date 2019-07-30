@@ -1,10 +1,19 @@
 [general]
 name=South Australia Groundwater Data
-email=kinverarity@hotmail.com`
+email=kinverarity@hotmail.com
 author=Kent Inverarity
-qgisMinimumVersion=3.0
+qgisMinimumVersion=3.8
 description=Tools for using South Australian groundwater data in QGIS
-about=Tools for using South Australian groundwater data in QGIS
+about=Tools for using South Australian groundwater data in QGIS.
+    
+    This plugin will only work on Windows. BEWARE! It will use
+    your QGIS Python's pip to install the following packages
+    into your QGIS Python installation:
+
+    - requests
+    - pandas v0.25.0
+    - python-sa-gwdata master from GitHub
+
 version=0.1.0
 tracker=https://github.com/kinverarity1/sa-gwdata-qgis/issues
 repository=https://github.com/kinverarity1/sa-gwdata-qgis/
