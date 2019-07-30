@@ -1,0 +1,19 @@
+[general]
+name=South Australia Groundwater Data
+email=kinverarity@hotmail.com`
+author=Kent Inverarity
+qgisMinimumVersion=3.0
+description=Tools for using South Australian groundwater data in QGIS
+about=Tools for using South Australian groundwater data in QGIS
+version=0.1.0
+tracker=https://github.com/kinverarity1/sa-gwdata-qgis/issues
+repository=https://github.com/kinverarity1/sa-gwdata-qgis/
+category=Database
+changelog=
+    0.1.0 - Early development verson
+tags=groundwater
+homepage=https://github.com/kinverarity1/sa-gwdata-qgis/
+icon=icon.png
+experimental=True
+deprecated=False
+qgisMaximumVersion=3.99
