@@ -1,10 +1,10 @@
-# sa-gwdata-qgis
+# SA Groundwater Data QGIS plugin
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 QGIS 3+ plugin for using South Australian groundwater data from WaterConnect.
     
-This plugin is quite experimental. Use it at your own risk. It should work
+This plugin is experimental. Use it at your own risk. It should work
 on QGIS 3+, on Windows, when the bundled Python is version 3.7 and 64-bit.
 **BEWARE!** It will use your QGIS Python's pip to install the following packages
 into your QGIS Python installation:
