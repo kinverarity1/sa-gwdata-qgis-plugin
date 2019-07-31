@@ -3,3 +3,5 @@ def classFactory(iface):
 
     return SAGwDataPlugin(iface)
 
+
+__version__ = "0.1.0"

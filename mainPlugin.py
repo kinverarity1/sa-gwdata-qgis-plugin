@@ -19,6 +19,8 @@ from .install_dependencies import *
 from .plugin_tasks import *
 from .utils import *
 
+__version__ = "0.1.0"
+
 
 class SAGwDataPlugin:
     """Main QGIS plugin class."""
